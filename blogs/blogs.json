@@ -1,0 +1,19 @@
+{
+  "name": "NextGen Healthcare Blog",
+  "description": "NextGen Healthcare blog covering healthcare IT, EHR innovations, interoperability, FHIR, and practice management insights.",
+  "url": "https://www.nextgen.com/blog",
+  "created": "2026-06-13",
+  "modified": "2026-06-13",
+  "feeds": [],
+  "tags": [
+    "Healthcare IT",
+    "EHR",
+    "FHIR",
+    "Interoperability",
+    "Practice Management",
+    "21st Century Cures",
+    "Patient Access",
+    "Ambulatory Care"
+  ],
+  "posts": []
+}
