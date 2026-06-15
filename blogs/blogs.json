@@ -4,7 +4,15 @@
   "url": "https://www.nextgen.com/blog",
   "created": "2026-06-13",
   "modified": "2026-06-13",
-  "feeds": [],
+  "feeds": [
+    {
+      "source": "https://twitter.com/nextgen",
+      "feed_url": "https://twitter.com/nextgen",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
   "tags": [
     "Healthcare IT",
     "EHR",
@@ -15,5 +23,8 @@
     "Patient Access",
     "Ambulatory Care"
   ],
-  "posts": []
+  "posts": [],
+  "repo": "nextgen",
+  "post_count": 0,
+  "fetched": "2026-06-14T20:42:17Z"
 }
