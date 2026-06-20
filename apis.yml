@@ -10,7 +10,7 @@ description: >
   code and client credentials flows. Products support USCDI v1 data exchange, HL7 FHIR
   DSTU2 and R4 standards, and Mirth Connect integration engine for HL7-based interoperability.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/nextgen/refs/heads/main/apis.yml
 created: '2026-06-13'
 modified: '2026-06-13'
@@ -36,7 +36,7 @@ apis:
       billing, and patient engagement data using a proprietary NextGen JSON data standard with
       optional FHIR support. Access requires registration in the NextGen API Developer Program.
       Authentication via OAuth 2.0.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.nextgen.com/api
     baseURL: https://fhir.nextgen.com
     tags:
@@ -59,7 +59,7 @@ apis:
       token endpoint at https://fhir.nextgen.com/nge/prod/patient-oauth/token. Enables access
       to patient demographics, allergies, medications, prescriptions, procedures, observations,
       vital signs, encounters, and appointments.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.nextgen.com/api
     baseURL: https://fhir.nextgen.com/nge/prod/fhir-api-r4/fhir/r4
     tags:
@@ -80,7 +80,7 @@ apis:
       standards. Compliant with 21st Century Cures Act interoperability requirements and
       supports USCDI v1 data elements including clinical notes, lab results, medications,
       allergies, immunizations, and patient demographics.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.nextgen.com/api/-/media/files/ngo/nextgen-office-fhir-patient-api-developer-guide
     baseURL: https://fhir.meditouchehr.com
     tags:
@@ -100,7 +100,7 @@ apis:
       launches with OAuth 2.0 authorization code flow. Enables clinical decision support apps,
       patient-facing applications, and provider workflow tools to securely access patient
       data within the NextGen Office context.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.nextgen.com/api/-/media/files/ngo/nextgen-office-fhir-r4-smart-app-launch-api-developer-guide
     baseURL: https://fhir.meditouchehr.com
     tags:
@@ -121,7 +121,7 @@ apis:
       https://fhir.meditouchehr.com/api/bulkfhir/r4. Includes Patient Search API for
       identifying active patients to include in export groups. Uses SMART Backend Services
       authorization for system-to-system authentication.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.nextgen.com/-/media/files/ngo/NextGen-Office-FHIR-R4-Bulk-FHIR-API-Developer-Guide
     baseURL: https://fhir.meditouchehr.com/api/bulkfhir/r4
     tags:
@@ -140,7 +140,7 @@ apis:
       systems. Enables message transformation, routing, and exchange across disparate healthcare
       IT systems. Available as self-hosted open-source software via GitHub or as Mirth Fully
       Managed, a cloud-native SaaS platform for healthcare data exchange.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.nextgen.com/solutions/interoperability/api-fhir
     baseURL: https://github.com/nextgenhealthcare/connect
     tags:
