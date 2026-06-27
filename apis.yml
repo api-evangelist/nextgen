@@ -163,7 +163,7 @@ common:
     url: https://dev-cd.nextgen.com/api
   - type: DeveloperProgram
     url: https://www.nextgen.com/developer-program
-  - type: Onboarding
+  - type: GettingStarted
     url: https://www.nextgen.com/api-on-boarding
   - type: Marketplace
     url: https://www.nextgen.com/solutions/marketplace
