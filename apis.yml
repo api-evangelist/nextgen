@@ -155,6 +155,8 @@ apis:
       - type: GitHub
         url: https://github.com/nextgenhealthcare/connect
 common:
+  - type: DomainSecurity
+    url: security/nextgen-domain-security.yml
   - type: Website
     url: https://www.nextgen.com/
   - type: Documentation
