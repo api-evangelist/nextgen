@@ -3,13 +3,14 @@
   "description": "NextGen Healthcare blog covering healthcare IT, EHR innovations, interoperability, FHIR, and practice management insights.",
   "url": "https://www.nextgen.com/blog",
   "created": "2026-06-13",
-  "modified": "2026-06-21",
+  "modified": "2026-07-04",
   "feeds": [
     {
-      "source": "https://www.nextgen.com/blog",
-      "feed_url": "",
+      "source": "https://twitter.com/nextgen",
+      "feed_url": "https://twitter.com/nextgen",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "tags": [
@@ -25,6 +26,6 @@
   "posts": [],
   "repo": "nextgen",
   "post_count": 0,
-  "fetched": "2026-06-27T12:56:03Z",
-  "agent_pulled": "2026-06-27"
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
